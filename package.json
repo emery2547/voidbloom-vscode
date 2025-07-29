@@ -1,0 +1,43 @@
+{
+  "name": "voidbloom",
+  "displayName": "voidbloom",
+  "description": "A dual-theme VSCode theme inspired by the gentle hues of the cosmos, blending soft and cozy vibrance with a deep space atmosphere. ",
+  "version": "0.0.1",
+  "author": "emery",
+  "publisher": "emery2547",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/emery2547/voidbloom"
+  },
+  "engines": {
+    "vscode": "^1.102.0"
+  },
+  "extensionKind": [
+    "ui"
+  ],
+  "keywords": [
+    "space",
+    "cosmic",
+    "future",
+    "cozy",
+    "pastel"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "voidbloom quazar",
+        "uiTheme": "vs",
+        "path": "./themes/voidbloom-light.json"
+      },
+      {
+        "label": "voidbloom singularity",
+        "uiTheme": "vs-dark",
+        "path": "./themes/voidbloom-dark.json"
+      }
+    ]
+  }
+}
