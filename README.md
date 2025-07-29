@@ -4,10 +4,9 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/emeryking2547/voidbloom-vscode/releases/"><img src="https://img.shields.io/github/package-json/v/emery2547/voidbloom-vscode?style=for-the-badge&labelColor=7ad383&color=382a4c
-  "></a> <a href=""><img src="https://img.shields.io/github/issues/emeryking/voidbloom-vscode?style=for-the-badge&labelColor=382a4c&color=f06eb5
-  "></a> <a href="LICENSE"><img src="https://img.shields.io/github/license/emery2547/voidbloom-vscode?style=for-the-badge&labelColor=382a4c&color=f4c15d
-  "></a>
+  <a href="https://github.com/emery2547/voidbloom-vscode/releases"><img src="https://img.shields.io/github/package-json/v/emery2547/voidbloom-vscode?colorA=382a4c&colorB=7ad383&style=for-the-badge"></a>
+  <a href="https://github.com/emery2547/voidbloom-vscode/issues?q=sort%3Aupdated-desc+is%3Aissue+is%3Aopen"><img src="https://shields.io/github/issues/emery2547/voidbloom-vscode?colorA=382a4c&colorB=f06eb5&style=for-the-badge"></a>
+  <a href="https://github.com/emery2547/voidbloom-vscode/blob/main/LICENSE"><img src="https://shields.io/github/license/emery2547/voidbloom-vscode?colorA=382a4c&colorB=f4c15d&style=for-the-badge"></a>
 </p>
 
 <p align="center">
