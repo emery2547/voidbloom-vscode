@@ -144,7 +144,7 @@
     "editorBracketMatch.border": "#9b91a3",
     "editorCodeLens.foreground": "#a69cad",
     "editorCursor.background": "#f2ecee",
-    "editorCursor.foreground": "#beb4c0",
+    "editorCursor.foreground": "#6d5a74",
     "editorGroup.border": "#beb4c0",
     "editorGroup.dropBackground": "#7e45a733",
     "editorGroup.emptyBackground": "#f2ecee",
@@ -405,7 +405,7 @@
     "terminal.selectionBackground": "#beb4c0",
     "terminal.inactiveSelectionBackground": "#beb4c080",
     "terminalCursor.background": "#f2ecee",
-    "terminalCursor.foreground": "#8a7e8e",
+    "terminalCursor.foreground": "#6d5a74",
     "terminal.border": "#beb4c0",
     "terminal.dropBackground": "#7e45a733",
     "terminal.tab.activeBorder": "#7e45a7",
@@ -675,7 +675,7 @@
       "name": "Parentheses, Brackets, Braces",
       "scope": "punctuation",
       "settings": {
-        "foreground": "#9b91a3",
+        "foreground": "#6d5a74",
         "fontStyle": ""
       }
     },
