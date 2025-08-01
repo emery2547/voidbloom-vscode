@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="assets/icons/rose_rsquare.png" width="100" alt="Logo"/><br/>
+	<img src="assets/icons/rose_rsquare.png" width="200" alt="Logo"/><br/>
 	voidbloom <a href="https://code.visualstudio.com">VSCode</a> theme
 </h3>
 
@@ -10,16 +10,16 @@
 </p>
 
 <p align="center">
-  <img src="assets/screenshots/screenshots.png" width="500"/>
+  <img src="assets/screenshots/voidbloom_preview.png" width="500"/>
 </p>
 
 <details>
 <summary>Quazar</summary>
-<img src="assets/screenshots/voidbloom_light.jpg"/>
+<img src="assets/screenshots/voidbloom_light.png"/>
 </details>
 <details>
 <summary>Singularity</summary>
-<img src="assets/screenshots/voidbloom_dark.jpg"/>
+<img src="assets/screenshots/voidbloom_dark.png"/>
 </details>
 
 ## Installation
