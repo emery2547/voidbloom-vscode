@@ -675,7 +675,7 @@
       "name": "Parentheses, Brackets, Braces",
       "scope": "punctuation",
       "settings": {
-        "foreground": "#ab9fbd",
+        "foreground": "#7f6d99",
         "fontStyle": ""
       }
     },
@@ -686,7 +686,7 @@
         "punctuation.definition.comment"
       ],
       "settings": {
-        "foreground": "#583d75",
+        "foreground": "#ab9fbd",
         "fontStyle": "italic"
       }
     },
